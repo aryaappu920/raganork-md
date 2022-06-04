@@ -7,7 +7,7 @@ const {
   FancyRandom,
   getListFromCommand,
   skbuffer
-} = require("raganork-bot");
+} = require("𝑴𝑰𝑳𝑳𝑰𝑬_𝑩𝑶𝑻_𝑴𝑫");
 const {
   Module,
   commands
@@ -31,7 +31,7 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        url: 'ɢɪᴛ ʟɪɴᴋ ɴᴏᴛ ʜᴀʀᴇ😴'
     }
 }, {
     callButton: {
